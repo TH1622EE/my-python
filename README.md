@@ -8,7 +8,6 @@ This repository contains code written for both project specific purposes, as wel
 
 ## Directory Structure
 
-<p align="center">
 | Directory/Files | Purpose |
 | :-- | :-- |
 | config | This directory contains subdirectories and files specific to the configuration of the various projects and their associated environments |
@@ -17,7 +16,6 @@ This repository contains code written for both project specific purposes, as wel
 | tutorials | This directory contains subdirectories specific to the topic of the various tutorials, each of which contains example code and conceptual explanations in a high-level README.md file. |
 | .gitignore | This is the high-level .gitignore file to suppresss certain items not intended to be pushed to the repository. |
 | README.md | This is the high-level README.md file at the highest-level of the repository. |
-</p>
 
 ## System Configuration
 
@@ -27,11 +25,9 @@ The following table(s) defines the specific configurations used for each increme
 
 The following is the system configuration for version 1.0 (i.e., v1.0) which was defined on November 10, 2024.
 
-<p align="center">
 | System Component | Version |
 | :-- | :-- |
 | Computer | Mac Studio M2 Ultra |
 | Operating System | Sequoia 15.1 |
 | Python | 3.12.7 |
 | Conda | 24.9.2 |
-</p>
