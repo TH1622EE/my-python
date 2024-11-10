@@ -6,15 +6,9 @@ This repository contains various tutorials specific to high-level Python program
 
 | Directory | Description |
 | :-- | :-- |
-| Variables and Data Types | This directory contains Python examples for different types of variables and data types in Python |
-| Basic Data Structures | This directory contains Python examples of different types of built-in basic data structures and how to use them. |
-| Control Flow | This direcotry contains Python examples of different types of control flow to include both conditional and iterative types. |
-| Functions | This directory contains Python examples of built-in and user-defined functions. |
-| OOP | This directory contains Python examples of basic Object Oriented Programming (OOP) concepts. |
-| File I/O | This directory contains Python examples of basic input and output of data. |
-| Exception Handling | This directory contains Python examples on error handling and exceptions. |
-| Intermediate Topics | This directory contains Python examples of intermediate topics beyond the scope of the above fundamental topics specific to the Python programming language. |
-| Advanced Topics | This directory contains Python examples of advanced topics beyond the scope of the above basic and intermediate topics speciifc to the Python programming language. |
+| 1-python-basics | This directory contains subdirectories covering fundamental concepts and language basics specific to the Python programming language. |
+| 2-python-intermediate | This directory contains subdirectories covering intermediate concepts specific to the Python programming language. |
+| 3-python-advanced | This directory contains subdirectories covering advanced concepts specific to the Python programming language. |
 
 ## Distinction between Python Scripts, Modules, Libraries, and Frameworks
 
@@ -26,7 +20,7 @@ A Python script is a single file (i.e., fileName.py) containing Python source co
 
 ### Modules
 
-A Python module is any Python file (i.e., script) that can be impored and used in other Python code. It can and often does contain functions, classes, and variables. Modules allow a developer to organize your code into reusable components used to a more modular and maintainable codebase. Though a script is often used as a module, the distinction is that a script is a standalone Python file designed as standalone code to perform a singular, or multiple common tasks. Whereas, a *module* is a script which is designed to perform a collection of common tasks typically associated with the modules name, which are combined with other modules to create a library.
+A Python module is any Python file (i.e., script) that can be imported and used in other Python code. It can and often does contain functions, classes, and variables. Modules allow a developer to organize your code into reusable components used to a more modular and maintainable codebase. Though a script is often used as a module, the distinction is that a script is a standalone Python file designed as standalone code to perform a singular, or multiple common tasks. Whereas, a *module* is a script which is designed to perform a collection of common tasks typically associated with the modules name, which are combined with other modules to create a library.
 
 ### Libraries
 

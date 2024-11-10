@@ -10,12 +10,8 @@ This repository contains code written for both project specific purposes, as wel
 
 | Directory/Files | Purpose |
 | :-- | :-- |
-| config | This directory contains subdirectories and files specific to the configuration of the various projects and their associated environments |
-| data | This directory contains subdirectories containing references, data sets, images, and any other form of external data used by the various scripts, modules, and libraries contained within this repository. |
-| libraries | This is the high-level directory containing all of my projects designed to be built as libraries. |
+| projects | This is the high-level directory containing all of my projects designed to be built as libraries. |
 | tutorials | This directory contains subdirectories specific to the topic of the various tutorials, each of which contains example code and conceptual explanations in a high-level README.md file. |
-| .gitignore | This is the high-level .gitignore file to suppresss certain items not intended to be pushed to the repository. |
-| README.md | This is the high-level README.md file at the highest-level of the repository. |
 
 ## System Configuration
 
