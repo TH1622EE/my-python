@@ -1,8 +1,22 @@
 # Python Tutorials
 
-This repository contains various tutorials specific to high-level Python programming with respect to syntax, semantics, architecture, etc. The following is a high-level table of contents which describes what the topics of the tutorial, each of which will will contain a collection of scripts/mmodules of example code and a README.md file describing the contents contained within. 
+This repository contains various tutorials specific to high-level Python programming with respect to syntax, semantics, architecture, etc. The following is a high-level table of contents which describes what the topics of the tutorial, each of which will will contain a collection of scripts/mmodules of example code and a README.md file describing the contents contained within.
 
-## Python Scripts, Modules, Libraries, and Frameworks
+## Directory Structure
+
+| Directory | Description |
+| :-- | :-- |
+| Variables and Data Types | This directory contains Python examples for different types of variables and data types in Python |
+| Basic Data Structures | This directory contains Python examples of different types of built-in basic data structures and how to use them. |
+| Control Flow | This direcotry contains Python examples of different types of control flow to include both conditional and iterative types. |
+| Functions | This directory contains Python examples of built-in and user-defined functions. |
+| OOP | This directory contains Python examples of basic Object Oriented Programming (OOP) concepts. |
+| File I/O | This directory contains Python examples of basic input and output of data. |
+| Exception Handling | This directory contains Python examples on error handling and exceptions. |
+| Intermediate Topics | This directory contains Python examples of intermediate topics beyond the scope of the above fundamental topics specific to the Python programming language. |
+| Advanced Topics | This directory contains Python examples of advanced topics beyond the scope of the above basic and intermediate topics speciifc to the Python programming language. |
+
+## Distinction between Python Scripts, Modules, Libraries, and Frameworks
 
 In Python, the terms *script*, *module*, *library*, and *framework* are often used interchangably and synonymous. However, this is inaccurate, and each of these terms has a contextually distinct meaning, but more importantly a distinct functionality and purpose. The following is an explanation of each:
 
