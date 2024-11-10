@@ -27,9 +27,11 @@ The following table(s) defines the specific configurations used for each increme
 
 The following is the system configuration for version 1.0 (i.e., v1.0) which was defined on November 10, 2024.
 
+<p align="center">
 | System Component | Version |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | Computer | Mac Studio M2 Ultra |
 | Operating System | Sequoia 15.1 |
 | Python | 3.12.7 |
 | Conda | 24.9.2 |
+</p>
