@@ -23,7 +23,7 @@ The following table(s) defines the specific configurations used for each increme
 
 ### Version 1.0 - macOS
 
-The following is the system configuration for version 1.0 (i.e., v1.0) which was defined on November 10, 2024.
+The following is the system configuration for version 1.0 (i.e., v1.0) which was defined on and current as of November 10, 2024.
 
 | System Component | Version |
 | :-- | :-- |
